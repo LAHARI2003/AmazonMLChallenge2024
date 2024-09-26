@@ -142,6 +142,8 @@ entity_unit_map = {
 
 
 ## TEAM POSITION
+
+# Ranked 130 out of 75,000 people participating
 https://unstop.com/hackathons/amazon-ml-challenge-amazon-1100713/coding-challenge/200089?d=eyJwYWdlIjoxLCJ0ZWFtSWQiOjIzMDQ5MTM1LCJhc3NvY2lhdGlvbklkIjo4NDEzMzl9
 
 
